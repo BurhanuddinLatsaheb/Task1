@@ -45,10 +45,6 @@ This project provides a solution for detecting and tagging NSFW (Not Safe For Wo
     ```
 
 
-Certainly! Here are input-output examples for the README:
-
----
-
 # Examples
 
 ### Example 1:
