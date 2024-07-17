@@ -15,7 +15,6 @@ This project provides a solution for detecting and tagging NSFW (Not Safe For Wo
 - Python 3.7+
 - PyTorch
 - Transformers
-- NLTK
 
 ## Setup
 
